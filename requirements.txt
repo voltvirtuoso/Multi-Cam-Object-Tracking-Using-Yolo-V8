@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+ultralytics
+scikit-image
+filterpy
+tqdm
