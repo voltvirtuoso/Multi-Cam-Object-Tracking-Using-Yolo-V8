@@ -38,11 +38,6 @@ This repository contains a multi-camera object detection and tracking system imp
    pip install -r requirements.txt
    ```
 
-3. Install the `ultralytics` library for YOLOv8:
-   ```bash
-   pip install ultralytics
-   ```
-
 ---
 
 ## Requirements
