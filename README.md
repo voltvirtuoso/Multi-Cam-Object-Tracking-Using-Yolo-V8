@@ -29,7 +29,7 @@ This repository contains a multi-camera object detection and tracking system imp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Multi-Cam-Object-Tracking-Using-Yolo-V8.git
+   git clone https://github.com/voltvirtuoso/Multi-Cam-Object-Tracking-Using-Yolo-V8.git
    cd Multi-Cam-Object-Tracking-Using-Yolo-V8
    ```
 
